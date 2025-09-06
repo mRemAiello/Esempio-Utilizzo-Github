@@ -1,0 +1,1 @@
+Questa repository contiene degli esempi sull'utilizzo di Git e Github
